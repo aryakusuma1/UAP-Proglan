@@ -1,0 +1,16 @@
+Jumlah Rupiah: Rp100000.0
+Mata Uang Dipilih: Riyal Arab Saudi
+Hasil Konversi: 24.0
+-----------------------
+Jumlah Rupiah: Rp200000.0
+Mata Uang Dipilih: Dollar Amerika
+Hasil Konversi: 12.999999999999998
+-----------------------
+Jumlah Rupiah: Rp500000.0
+Mata Uang Dipilih: Dollar Amerika
+Hasil Konversi: 32.5
+-----------------------
+Jumlah Rupiah: Rp100000.0
+Mata Uang Dipilih: Dollar Amerika
+Hasil Konversi: 6.499999999999999
+-----------------------
